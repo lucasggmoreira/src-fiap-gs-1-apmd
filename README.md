@@ -1,5 +1,10 @@
 # AlertaSlide - Sistema de Monitoramento de Deslizamentos
 
+## 🏚️ Grupo
+
+Eduardo Alves Carmo da Silva - RM 98016
+Lucas Gabriel Gianini Moreira - RM 99921
+
 ## 📱 Sobre o Projeto
 
 O **AlertaSlide** é um aplicativo mobile desenvolvido em React Native que simula uma rede de sensores inteligentes para monitoramento de riscos de deslizamentos. Inspirado em iniciativas como o Alerta Rio e os Early Warning Systems, o aplicativo permite monitorar indicadores ambientais e prever riscos de deslizamentos em tempo real.
