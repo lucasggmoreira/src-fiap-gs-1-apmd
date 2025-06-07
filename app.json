@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "src-fiap-gs-1-apmd-entrega",
-    "slug": "src-fiap-gs-1-apmd-entrega",
+    "name": "AlertaSlide",
+    "slug": "alerta-slide",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,7 +10,7 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#4facfe"
     },
     "ios": {
       "supportsTablet": true
