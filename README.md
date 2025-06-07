@@ -2,8 +2,10 @@
 
 ## 🏚️ Grupo
 
-Eduardo Alves Carmo da Silva - RM 98016
-Lucas Gabriel Gianini Moreira - RM 99921
+- Eduardo Alves Carmo da Silva - RM 98016
+- Lucas Gabriel Gianini Moreira - RM 99921
+
+[Vídeo de apresentação do programa](https://youtu.be/BeY5_pBDGcY)
 
 ## 📱 Sobre o Projeto
 
